@@ -5,10 +5,5 @@
 
 ## 科学上网
 
-- [科学上网配置]https://github.com/haoel/haoel.github.io vps虚拟主机自己搭建科学上网
+- [科学上网](http://www.baidu.com)vps虚拟主机自己搭建科学上网
 
-
-
-- [科学上网]: http://www.baidu.con
-
-  
