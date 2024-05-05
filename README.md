@@ -3,7 +3,9 @@
 
 ---
 
+## 日常工具
 
+- [bibili下载](https://github.com/leiurayer/downkyi) 哔哩下载姬 下载bilibili工具
 
 ## python
 
@@ -16,3 +18,5 @@
 ## 科学上网
 
 - [科学上网](http://www.baidu.com)vps虚拟主机自己搭建科学上网
+
+- [自由上网](https://github.com/Alvin9999/new-pac/wiki) 科学上网搭建环境
