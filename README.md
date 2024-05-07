@@ -15,8 +15,11 @@
 
 - [pkucs自学路线](https://github.com/PKUFlyingPig/cs-self-learning) pku发起cs自学路线
 
+## 科研学术
+
+- [CCF-Deadline](https://github.com/ccfddl/ccf-deadlines)  CCF会议截止汇总
+
 ## 科学上网
 
 - [科学上网](http://www.baidu.com)vps虚拟主机自己搭建科学上网
-
 - [自由上网](https://github.com/Alvin9999/new-pac/wiki) 科学上网搭建环境
