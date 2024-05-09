@@ -15,6 +15,10 @@
 
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)使用JAVA语言，基于springboot框架写的PDF
 
+## C/C++
+
+- [微软DOS操作系统](https://github.com/microsoft/MS-DOS) 微软DOS操作系统v4开源
+
 ## 学习相关
 
 - [pkucs自学路线](https://github.com/PKUFlyingPig/cs-self-learning) pku发起cs自学路线
