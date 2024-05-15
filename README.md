@@ -31,3 +31,8 @@
 
 - [科学上网](http://www.baidu.com)vps虚拟主机自己搭建科学上网
 - [自由上网](https://github.com/Alvin9999/new-pac/wiki) 科学上网搭建环境
+
+## 可玩项目
+
+- [苹果键盘在win系统运行键盘映射](https://github.com/gered/AppleWirelessKeyboard)  苹果键盘用在windows在的映射，不咋好用
+- [bootcamp苹果键盘win下驱动](https://github.com/supermarsx/magickeyboard)  苹果系统在win的驱动，还没有尝试
