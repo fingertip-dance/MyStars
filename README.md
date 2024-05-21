@@ -24,6 +24,10 @@
 - [浙大pat题解](https://github.com/liuchuo/PAT) 浙大pat题解，柳诺
 - [算法模板/资料](https://github.com/upupming/algorithm/tree/master) upupming 
 
+# 前端
+
+- [前端学习路线](https://github.com/upupming/frontend-learning-map) upupming的学习路线
+
 ## 学习相关
 
 - [pkucs自学路线](https://github.com/PKUFlyingPig/cs-self-learning) pku发起cs自学路线
