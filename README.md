@@ -19,6 +19,11 @@
 
 - [微软DOS操作系统](https://github.com/microsoft/MS-DOS) 微软DOS操作系统v4开源
 
+# 算法
+
+- [浙大pat题解](https://github.com/liuchuo/PAT) 浙大pat题解，柳诺
+- [算法模板/资料](https://github.com/upupming/algorithm/tree/master) upupming 
+
 ## 学习相关
 
 - [pkucs自学路线](https://github.com/PKUFlyingPig/cs-self-learning) pku发起cs自学路线
